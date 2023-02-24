@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact ...
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sammykingx&label=Profile%20views&color=0e75b6&style=flat" alt="sammykingx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YoungKing-Joshuax&label=Profile%20views&color=0e75b6&style=flat" alt="youngking-joshua" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
