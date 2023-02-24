@@ -1,41 +1,23 @@
-<img align='center' width='1020' src='https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2738.jpg?w=826&t=st=1665971325~exp=1665971925~hmac=ec0dfa2d7e5eab170131ade718501cc66f0eeb07495ca493d38c092b518cb8a9'>
-
-<!--### Hi there 👋
-
-
-**sammykingx/sammykingx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently ... A student of the ALX SE Program
-- 🌱 I’m currently being trained to be a seasoned software engineer
-- 👯 I’m looking to collaborate on Projects related to c, Python, Js, SQL.
-- 🤔 I’m looking for help with Internships, job openings, oppourtunities that will further contibute to my growth as a software engineer
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--
-- 😄 Prefferred name: Joshua
-<!-- ⚡ Fun fact: ...doing hard things isn't really difficult if only you stay determined.
--->
+ ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
 <h1 align="center">Hi 👋, I'm Joshua Dei-Alorse</h1>
-<h3 align="center">An intern SE student</h3>
+<h3 align="center">An Expert Data Analyst from Ghana.</h3>
+<img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-<!--<img align='center' width='1020' src='https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2738.jpg?w=826&t=st=1665971325~exp=1665971925~hmac=ec0dfa2d7e5eab170131ade718501cc66f0eeb07495ca493d38c092b518cb8a9'>
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tolulope05&label=Profile%20views&color=0e75b6&style=flat" alt="Tolulope" /> </p>
 
-- 🔭 I’m currently an [Intern student in the ALX SE Program](https://www.alxafrica.com/software-engineering-2022/)
+<p align="left"> <a href="https://twitter.com/FakunleTolu" target="blank"><img src="https://img.shields.io/twitter/follow/FakunleTolu?logo=twitter&style=for-the-badge" alt="FakunleTolu" /></a> </p>
 
-- 🌱 I’m currently learning **Internet Networking**
+- 🎓 I'm a student of **ALX Software Engineering Programme**
 
-- 👯 I’m looking to collaborate on **any project that involves c, python, Bash scripting, Linux system admin as those are the knowledge i have as of now**
+- 👯 I’m looking to collaborate on Projects related to **C, Python, Js, SQL**.
 
-- 🤝 I’m looking for more expereince **With projects and internship opportunities in being a better SE**
+- 🤔 I’m looking for help with _Internships, Job openings and Oppourtunities that will further contibute to my growth as a software engineer_
 
-- 💬 Ask me about **c, Python, Javascript, SQL, BASH Scripting, Web Servers (Nginx, Apache)**
+- 💬 You can ask me about **Automatic Identification Systems (AIS)**
 
-- 📫 You can reach me via **joshuadeialorse@gmail.com**
+- 📫 How to reach me **joshuadeialorse@gmail.com**
 
-- ⚡ Fun fact: ...doing hard things isn't really difficult if only you stay determined.
+- ⚡ Fun fact ...
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammykingx&label=Profile%20views&color=0e75b6&style=flat" alt="sammykingx" /> </p>
 
