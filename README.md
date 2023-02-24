@@ -23,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/eronomosele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eronomosele" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samuel iyebhora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel iyebhora" height="30" width="40" /></a>
-<a href="https://fb.com/sammykingx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sammykingx" height="30" width="40" /></a>
-<a href="https://instagram.com/kingx_dma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kingx_dma" height="30" width="40" /></a>
+<a href="https://twitter.com/youngking__Jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="youngking_jay" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joshua-dei-alorse-ba9157236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshua dei-alorse" height="30" width="40" /></a>
+<a href="https://web.facebook.com/joshua.deialorse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joshua dei-alorse" height="30" width="40" /></a>
+<a href="https://instagram.com/youngking_ajay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="youngking_ajay" height="30" width="40" /></a>
 </p>
 <!--
   gif section
@@ -41,6 +41,6 @@
 
 <p><img width='400' hieght='500' align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammykingx&show_icons=true&locale=en&layout=compact" alt="sammykingx" /></p>
 <!--
-<p>&nbsp;<img align="center" width='400' src="https://github-readme-stats.vercel.app/api?username=sammykingx&show_icons=true&locale=en" alt="sammykingx" /></p>
+<p>&nbsp;<img align="center" width='400' src="https://github-readme-stats.vercel.app/api?username=sammykingx&show_icons=true&locale=en" alt="youngking_joshua" /></p>
 -->
 <p><img align="right" width='400' hieght='500' src="https://github-readme-streak-stats.herokuapp.com/?user=sammykingx&" alt="sammykingx" /></p>
