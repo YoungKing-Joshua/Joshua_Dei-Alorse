@@ -14,7 +14,7 @@
 
 - 💬 You can ask me about **Cross-platform Mobile App Development**
 
-- 📫 How to reach me **fakunletolulope05@gmail.com**
+- 📫 How to reach me **joshuadeialorse@gmail.com**
 
 - ⚡ Fun fact **I'm a student of ALX Software Engineering Programme**
 
