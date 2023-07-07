@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/youngking__Jay" target="blank"><img src="https://img.shields.io/twitter/follow/youngking_Jay?logo=twitter&style=for-the-badge" alt="youngking_Jay" /></a> </p>
 
-- 🎓 I'm a student of **ALX Software Engineering Programme**
+- 🎓 Currently a student of **ALX - Holberton Software Engineering Programme**
 
 - 👯 I’m looking to collaborate on Projects related to **Python, SQL, C, Javascript**.
 
-- 🤔 I’m looking for help with _Internships, Job openings and Oppourtunities that will further contibute to my growth as a Data Analyst & software engineer_
+- 💼 I’m looking for help with _Internships, Job openings and Oppourtunities that will further contibute to my growth as a Data Analyst & software engineer_
 
 - 💬 You can ask me about **Automatic Identification Systems (AIS)**
 
