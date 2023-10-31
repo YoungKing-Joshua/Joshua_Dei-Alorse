@@ -9,7 +9,7 @@
 
 - 🎓 Currently a student of <a href="https://www.alxafrica.com/software-engineering/" target="_blank" style="color: black; font-weight: bold;">ALX - Holberton Software Engineering Programme</a>
 
-- 👯 I’m looking to collaborate on Projects related to **Python, SQL, C, Javascript**.
+- 👯 I’m looking to collaborate on Projects related to **JavaScript, Python, Dart, SQL and C**.
 
 - 💼 I’m looking for help with _Internships, Job openings and Oppourtunities that will further contibute to my growth as a Data Analyst & software engineer_
 
