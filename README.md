@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/youngking__Jay" target="blank"><img src="https://img.shields.io/twitter/follow/youngking_Jay?logo=twitter&style=for-the-badge" alt="youngking_Jay" /></a> </p>
 
-- 🎓 Currently a student of <a href="https://www.alxafrica.com/software-engineering/" target="_blank" style="color: black; font-weight: bold;">ALX - Holberton Software Engineering Programme</a>
+- 🎓 Recent graduate of <a href="https://www.alxafrica.com/software-engineering/" target="_blank" style="color: black; font-weight: bold;">ALX - Holberton Software Engineering Programme</a>
 
 - 👯 I’m looking to collaborate on Projects related to **JavaScript, Python, Dart, SQL and C**.
 
