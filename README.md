@@ -13,7 +13,7 @@
 
 - 💼 I’m looking for help with _Internships, Job openings and Oppourtunities that will further contibute to my growth as a Data Analyst & software engineer_
 
-- 💬 You can ask me about **Automatic Identification Systems (AIS)**
+- 💬 You can ask me about **Automatic Identification Systems**
 
 - 📫 How to reach me **joshuadeialorse@gmail.com**
 
